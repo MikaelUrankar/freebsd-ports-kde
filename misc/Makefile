@@ -271,6 +271,7 @@
     SUBDIR += metalink-tools
     SUBDIR += mime-support
     SUBDIR += minidnn
+    SUBDIR += minuet
     SUBDIR += mirmon
     SUBDIR += mmdnn
     SUBDIR += mmv
