@@ -59,6 +59,7 @@
     SUBDIR += fff
     SUBDIR += flameshot
     SUBDIR += foliate
+    SUBDIR += francis
     SUBDIR += freebsd-update-notify
     SUBDIR += freemind
     SUBDIR += freeplane
