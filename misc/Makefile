@@ -204,6 +204,7 @@
     SUBDIR += jojodiff
     SUBDIR += json-tui
     SUBDIR += kbdscan
+    SUBDIR += kalm
     SUBDIR += kcd
     SUBDIR += kde-thumbnailer-chm
     SUBDIR += kde-thumbnailer-epub
